@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thursday noon, being Feb. (26) 84/85 My dearest soul, Thou only preserver of my life ...</title>
+            <author>Knox, W., Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87827</idno>
+            <idno type="STC">Wing K742B</idno>
+            <idno type="STC">ESTC R43878</idno>
+            <idno type="EEBO-CITATION">42476200</idno>
+            <idno type="OCLC">ocm 42476200</idno>
+            <idno type="VID">151214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2250:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thursday noon, being Feb. (26) 84/85 My dearest soul, Thou only preserver of my life ...</title>
+                  <author>Knox, W., Sir.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of p. 2: Sir W. Knox's Letter to his mistress in the country.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  Social life and customs --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151214:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday</hi> Noon, being <hi>Feb.</hi> (26) 84/05</date>
+               </dateline>
+               <lb/>
+               <salute>My deareſt Soul,</salute>
+            </opener>
+            <p>THou only preſerver of my Life, O thou Div—e Being, how can I pay Duty enough to thee for all thy immenſe Goodneſs to me thy poor Slave; no I am never able to requite Deareſt thee, if I ſhould continue theſe Thouſand Years; and yet, if thou makeſt good thy Promiſes, I ſhall go near to live a good part of them. I have now no farther doubt but that thou art reſolved to ſave me, therefore 'tis no matter how ſoon thy Tyrant knows I cannot Live without thee, for come Life, come Death, I muſt and will have thee, for thou art mine, and I ſhall die if I am much longer abſent from thee. Deareſt Angel, do'ſt with thy ſelf with me? ah! thou may'ſt have me when ever thou pleaſes. O don't let me want what we both ſo much deſire, if it be thy bl—t will, for nothing can be Phyſick to cure my dying Body, but thy Div—e Preſence. 'Tis fine work thoſe Fellows <hi>Rich.</hi> and <hi>Moody</hi> intends to make; my Villain <hi>Madley</hi> ſhall pay dearly for his Inquiſitiveneſs, and being ſuch a Traitor to his Maſter; but aſſure thy ſelf 'tis only gueſſing, for I have examin'd the Boy, who proteſts he never ſaw nor knew he had a Letter, or to whom Directed; but I will deferr his puniſhment till I hear more from thee. Mrs. <hi>Savory</hi> may eaſily hinder them from finding out the Plates, by ſending them out of the Houſe, and then ſhe may ſay ſhe has them not: The Eſquire came here on <hi>Friday</hi> laſt when I was at <hi>London,</hi> my Mother <hi>Eve</hi> beg'd of him but to ſtay till I came home, which would be at Night; no not he, for he ſaid he had Sworn never to lye in the Houſe more, but declared he would ſpend a Thouſand Pounds in oppoſing my coming in for Parliament Man: He went away in a great rage, and told my Mother, he had a ridiculing Letter from an unknown Hand, who told him all that had paſs'd in his Abſence; I fear all for thee, nothing for my ſelf, for he is the pitifulleſt of Men where he cannot domineer. By the Love thou beareſt me, ſuffer him not to ſtrike or abuſe thy Di—e Perſon, without giving me ſpeedy notice of it; I claim this Juſtice of thee, thou being my better Part, and know I ſhall die with Grief, as well as Abſence, if I ſhould live in dread of his beating thee, and thou not Advertiſe me of it; I hope thou wilt not do ſo cruel a thing to thy faithful Lover: No doubt but his Worſhip brought home his delicate Humor to thee on <hi>Saturday</hi> Night, he ſpent moſt of that Day at <hi>Mid—t,</hi> making all he could againſt me; he together with his <hi>Myrmidons,</hi> has ſpread abroad that I was not at the Charge of getting them their Ch—r, and a great many ſuch ſilly nonſenſical Lies, he being, thou knoweſt, good at them. I ſent <hi>Ch—s</hi> to the Burgers on <hi>Monday,</hi> and he is not yet return'd, ſo can give thee no accompt what Lord <hi>Mount—,</hi> the Town, and Mr. <hi>Alcock</hi> ſays, for I writ to them all, I hear that ſome of the Burgers ſtickle very much for me; I will get it if poſſible, only if it be but to diſturb my Deſtroyer. Deareſt, there is no fear of his taking my Letters to thee, if our dear friend will be ſure to let her truſty Maid be at the <hi>Poſt-houſe,</hi> on <hi>Fridays</hi> as ſoon as the Letters come in, becauſe he can have no way of coming at them, but to get the Poſt-Maſter to give him or his
+<pb n="2" facs="tcp:151214:2"/>
+               <!-- PDF PAGE 89 -->y Agents any Letters Directed to our Friend, till he finds one; but if ſhe takes this courſe, 'tis impoſſible for him to intercept a Letter, therefore pray diſ<g ref="char:EOLhyphen"/>courſe it with her. Then for thy bleſt ones to me, never fear their being open'd; ſend a Packet if thou pleaſes, there's no danger. I wonder not at all at the Inſolency of <hi>Ri—n.</hi> Thy Tyrant, and my Deſtroyer, intends to make all ſo to thee that he can, but bleſſing on thy dear Heart, his Reign is but ſhort; and ſince my Life depends upon thy Divine Promiſe, let me once more, before I end this Scrible, beſeech thee on my bended Knees to remember what I tell thee, that I cannot promiſe thee to ſecure my Life to thee long, if I continue thus deprived of thee, and my Deſtroyer is con<g ref="char:EOLhyphen"/>triving all the ways he can invent to keep me from thee; he knows it will kill me, and that he knows is the ſafeſt way to be rid of me. 'Tis only by thee and from thee I can receive my Life, and thou my Divinity can fruſtrate his, and all their cruelties to me; and ſince 'tis ſo, I fear nothing, thou art my G—d, and I pray and praiſe thee every Day, by whoſe bleſt Promiſes and Mercy I Live, and my Days will not be long enough to ex<g ref="char:EOLhyphen"/>preſs to dear thee my Gratitude for thy ſaving me thy poor Slave; but while I Breath, thou ſhalt ſee me attend thee with the pureſt Love, the vaſteſt Obedience, and the greateſt Reverence that can or ever was paid by Man. Ah! deareſt Life, what can I return thee for all thy Benefits beſtowed upon me thy poor Creature? only a Heart brim-full of Love and Admiration of thee, the which will continue ſo for ever, being I am thine, and only thine, thou haſt been pleaſed to accept of ſo mean a Gift, for which be pleaſed to accept of the moſt humbleſt Thanks and eternal Adoration of thy moſt Dutiful and Affectionate Hus. On <hi>Monday</hi> Night <hi>N—d Th—d</hi> and Three Men coming from <hi>London,</hi> all very drunk, one <hi>Sy—n,</hi> the beſt of them, fell into our Gravel-Pit, and was drowned, the Night being very dark, and it being about the hour of Twelve: This comes of drunkenneſs. Thy dear Siſter is to be Married on <hi>Shrove-Tueſday,</hi> and at Night to be laid upon her back as flat as a Pancake, and no doubt will give and receive a curious time on't. <hi>Ch—s</hi> is juſt come in, and brings me in an account what Oppoſition there is againſt me made by my Lord, the Eſquire, and Sir <hi>W—m M—y,</hi> but find all that were Bayliffs and above Thirty are for me; I intend to come down once more amongſt them, and try how far it will go; next Week I tell thee more. God Almighty keep me in thy bleſt Favour, 'tis no matter what becomes of this Affair.</p>
+            <trailer>Sir <hi>W. Knox's</hi> Letter to his Miſtreſs in the Country.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
